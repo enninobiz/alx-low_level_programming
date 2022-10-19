@@ -1,7 +1,7 @@
-#includ "main.h"
+#include "main.h"
 
 /**
- * _abs - computes the absolute value of an integar
+ * _abs - computes the absolute value of an integer
  * @t: The integer to be computed
  * Return: The absolute value
  */
