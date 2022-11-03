@@ -6,7 +6,7 @@
  * @y: the power
  * Return: The value of x raised to the power of y
  */
-nt _pow_recursion(int x, int y)
+int _pow_recursion(int x, int y)
 {
 	int result = x;
 
